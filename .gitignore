@@ -1,0 +1,10 @@
+*.o
+core
+a.out
+*.class
+bin
+*~
+create
+*.html
+html
+latex
